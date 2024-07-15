@@ -1,11 +1,11 @@
 # git-app
-A git application
+A git application.
 
-#install Bun
+#install Bun.
 To install dependencies run:
 bun install
 
-#run the app
+#run the app.
 To start the app
 bun run index.ts
 
